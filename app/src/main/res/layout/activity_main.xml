@@ -14,7 +14,7 @@
         android:layout_marginTop="20dp"
         android:contentDescription="@string/todo"
         tools:ignore="ImageContrastCheck"
-        tools:srcCompat="@tools:sample/avatars" />
+        tools:srcCompat="@drawable/login" />
 
     <EditText
         android:id="@+id/editText_User"
